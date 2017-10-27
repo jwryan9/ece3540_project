@@ -1,4 +1,9 @@
                                                                                         
+// Jason Ryan
+// ECE:3540
+// Project
+// client.c
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/socket.h>
